@@ -1,21 +1,22 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Katharina Ménoret, master goldsmith
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Design and create jewellery since 2007
 mainpitch:
-  title: Why Kaldi
+  title: Why should you?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    I design and create jewellery since 2007, I spent time learning and
+    improving my skills.
+
+    I worked in Art, small and big workshop and reparation workshop to gain as much knowledge as possible.
+
+    I'll put all my experience to guide you for the design and then to craft the perfect bijoux for you.
+description: Kadi is the ultimate spot for coffee lovers who want to learn about
+  their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -52,12 +53,12 @@ intro:
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: Design
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    I'll guide you with my design to achieve the perfect bijoux that will fit
+    you the best.
+
+    You can find some of my creation or some of 
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
